@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a computer vision engineer from TrunkTech in Beijing, China. I am focusing on Lidar based object detection / segmentation with additional interest on LSLAM. 
+
 <!--
 **Eralien/Eralien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
