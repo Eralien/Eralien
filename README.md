@@ -2,7 +2,7 @@
 
 I am a computer vision engineer from TrunkTech in Beijing, China. I am focusing on Lidar based object detection / segmentation with additional interest on LSLAM. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eralien)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eralien&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Eralien/Eralien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
